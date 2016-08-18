@@ -19,3 +19,6 @@ The expected return will be the corresponding energy in JSON format:
 <code>
 {"equation":"e=mc2","mass":10.0,"energy":8.9875517873681766E17}
 </code>
+
+The app too is running on Heroku. 
+You can test it in: https://physicalc.herokuapp.com/einsten/10
